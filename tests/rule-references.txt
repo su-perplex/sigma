@@ -3542,3 +3542,13 @@ https://redcanary.com/blog/gootloader/
 https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_22.12.2023.txt
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-20-wmievent-wmieventconsumer-activity-detected
 https://web.archive.org/web/20200219102749/https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf
+https://github.com/EmpireProject/PSInject
+https://ngrok.com/blog-post/new-ngrok-domains
+https://medium.com/@msuiche/the-nsa-compromised-swift-network-50ec3000b195
+https://www.sans.org/cyber-security-summit/archives
+http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/
+http://www.hexacorn.com/blog/2016/07/22/beyond-good-ol-run-key-part-42/
+https://www.reverse.it/sample/0b4ef455e385b750d9f90749f1467eaf00e46e8d6c2885c260e1b78211a51684?environmentId=100
+https://www.cyberciti.biz/faq/how-force-kill-process-linux/
+https://lab52.io/blog/winter-vivern-all-summer/
+https://www.cyberciti.biz/faq/linux-remove-user-command/
